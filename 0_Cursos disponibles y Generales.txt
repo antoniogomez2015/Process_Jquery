@@ -1,0 +1,48 @@
+
+
+
+Jquery
+
+
+	Cap. 1 - Como hacer un buscador AJAX con jQuery, PHP, MySQL, CSS y HTML
+
+		https://www.youtube.com/watch?v=jMp70zbPgSs
+
+
+	Curso de jQuery (21 videos)
+
+		https://www.youtube.com/playlist?list=PL12BD85C00C10E036
+
+
+	Curso jQuery 2014 (30 videos)
+
+		https://www.youtube.com/playlist?list=PLQ7AqVvqyMhCvHgqJdKTYJ9vw010-dTfe
+
+
+	Curso de JavaScript desde 0 (78 videos)
+
+		https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpobVmj1IlneKlVLJ84TID
+
+
+	Curso de jQuery (46 videos)
+
+		https://www.youtube.com/playlist?list=PL41E50EF970B853CC
+
+
+	Curso de jQuery Completo (Universidade XTI) (56 videos)
+
+		https://www.youtube.com/playlist?list=PLcHPNq67CaVnHwfOeK9-7n57aOV6orMSO
+
+
+	CURSO JQUERY BÁSICO (13 videos)
+
+		https://www.youtube.com/playlist?list=PLIZ0d6lKIbVpF5DffKAX5e9L119PleIqg
+
+
+	Curso de Javascript & jQuery (34 videos)
+
+		https://www.youtube.com/playlist?list=PL9ADAF257242D75FA
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
